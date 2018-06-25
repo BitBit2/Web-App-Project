@@ -8,18 +8,14 @@ This is LeadCoin’s first product code release to GitHub, representing a major 
 
 Table of contents 
 
-- [LeadCoin’s Development Status](#LeadCoin’s-Development-Status)
-- [Architecture](#Architecture)
-- [Getting started](#Getting-started)
-- [Storybook](#Storybook)
-- [Feedback](#Feedback)
-- [Contributing](#Contributing)
-- [Code of Conduct](#Code-of-Conduct)
-- [Disclaimer](#Disclaimer)
-
-
-
-
+- [LeadCoin’s Development Status](#leadCoin-s-development-status)
+- [Architecture](#architecture)
+- [Getting started](#getting-started)
+- [Storybook](#storybook)
+- [Feedback](#feedback)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-Conduct)
+- [Disclaimer](#disclaimer)
 
 ## LeadCoin’s Development Status
 
