@@ -6,7 +6,7 @@ A decentralized Lead Sharing Network https://leadcoin.network
 
 This is LeadCoin’s first product code release to GitHub, representing a major milestone and a significant step towards releasing our Alpha in Q3. LeadCoin’s network lets consumers and businesses share their unused leads and earn LDC tokens. Consumers can earn LDC tokens by sharing their data with interested businesses on LeadCoin’s Lead Sharing Network. The data is related to products or services they wish to buy. 
 
-Table of contents 
+**Table of contents**
 
 - [LeadCoin’s Development Status](#leadcoin-s-development-status)
 - [Architecture](#architecture)
@@ -43,7 +43,7 @@ The blockchain is developed using Solidity, and again, we'll give more informati
 You can run LeadCoin using Linux, Mac and Windows. The app supports NodeJS 8.5.0 or greater. We only tested it in NodeJS 8.5.0.
 
 1. [Fork the project](https://github.com/LeadcoinNetwork/leadcoin-web/fork)
-2. Clone the project `git clone. ..`.
+2. Clone the project `git clone https://github.com/LeadcoinNetwork/Web-App-Project/`.
 3. Install all dependencies. `npm i`
 4. Start a storybook `npm run storybook`
 5. Start the client `npm run start`
