@@ -8,15 +8,15 @@ This is LeadCoin’s first product code release to GitHub, representing a major 
 
 Table of contents 
 
-- [Project status](#Project-status)
+- [LeadCoin’s Development Status](#LeadCoin’s-Development-Status)
 - [Architecture](#Architecture)
 - [Getting started](#Getting-started)
 - [Storybook](#Storybook)
+- [Feedback](#Feedback)
 - [Contributing](#Contributing)
 - [Code of Conduct](#Code-of-Conduct)
 - [Disclaimer](#Disclaimer)
-- [License](#License)
-- [Feedback](#Feedback)
+
 
 
 
@@ -70,19 +70,15 @@ http://1.sg.leadcoin.network
 - [Report a bug in GitHub Issues](https://github.com/LeadcoinNetwork/leadcoin-web/issues)
 - [Tweet us with other feedback](https://twitter.com/leadcoinnetwork) 
 
-### Contributing
+## Contributing
 
 The main purpose of this repository is to be open source on GitHub, and we are grateful to the community for contributing bug fixes and improvements.
 
-### Code of Conduct
+## Code of Conduct
 
-LeadCoin has adopted a Code of Conduct that we expect project participants to follow. Please read  [the full text](CODE_OF_CONDUCT.md)  so that you can understand what actions will and will not be tolerated.
-
-https://docs.google.com/document/d/1xRJPlr8zlh8OMLHzCQP8Dw6CI77wB77Vjb8lu24v6os/edit
+LeadCoin has adopted a Code of Conduct that we expect project participants to follow. Please read  [the full text](CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
 
-### Disclaimer
+## Disclaimer
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
